@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Ketchup",
+    "img": "/pics/sauce/ketchup_150.png"
+  },
+  {
+    "name": "Mayonnaise",
+    "img": "/pics/sauce/mayo_150.png"
+  },
+  {
+    "name": "Mautarde",
+    "img": "/pics/sauce/moutard_150.png"
+  },
+  {
+    "name": "BBQ",
+    "img": "/pics/sauce/bbq_150.png"
+  },
+  {
+    "name": "Samorai",
+    "img": "/pics/sauce/samurai_150.png"
+  },
+  {
+    "name": "Algérienne",
+    "img": "/pics/sauce/algerienne_150.png"
+  },
+  {
+    "name": "H'rissa",
+    "img": "/pics/sauce/hrissa_150.png"
+  }
+]

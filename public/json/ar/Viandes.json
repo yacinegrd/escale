@@ -1,0 +1,22 @@
+[
+  {
+    "name": "لحم مفروم",
+    "img": "/pics/Viande/hachee_150.png"
+  },
+  {
+    "name": "دجاج",
+    "img": "/pics/Viande/poulet_150.png"
+  },
+  {
+    "name": "دجاج مكسيكي",
+    "img": "/pics/Viande/mexican_150.png"
+  },
+  {
+    "name": "دجاج كاري",
+    "img": ""
+  },
+  {
+    "name": "دجاج تندوري",
+    "img": "/pics/Viande/tandori_150.png"
+  }
+]

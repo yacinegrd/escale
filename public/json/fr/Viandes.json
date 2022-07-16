@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Viande Hachée",
+    "img": "/pics/Viande/hachee_150.png"
+  },
+  {
+    "name": "Poulet",
+    "img": "/pics/Viande/poulet_150.png"
+  },
+  {
+    "name": "Poulet Mexicain",
+    "img": "/pics/Viande/mexican_150.png"
+  },
+  {
+    "name": "Poulet Curry",
+    "img": ""
+  },
+  {
+    "name": "Poulet Tandoori",
+    "img": "/pics/Viande/tandori_150.png"
+  }
+]

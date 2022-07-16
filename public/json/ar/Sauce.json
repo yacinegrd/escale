@@ -1,0 +1,30 @@
+[
+  {
+    "name": "كاتشاب",
+    "img": "/pics/sauce/ketchup_150.png"
+  },
+  {
+    "name": "مايونيز",
+    "img": "/pics/sauce/mayo_150.png"
+  },
+  {
+    "name": "خردل",
+    "img": "/pics/sauce/moutard_150.png"
+  },
+  {
+    "name": "شواء",
+    "img": "/pics/sauce/bbq_150.png"
+  },
+  {
+    "name": "ساموراي",
+    "img": "/pics/sauce/samurai_150.png"
+  },
+  {
+    "name": "جزائرية",
+    "img": "/pics/sauce/algerienne_150.png"
+  },
+  {
+    "name": "هريسة",
+    "img": "/pics/sauce/hrissa_150.png"
+  }
+]

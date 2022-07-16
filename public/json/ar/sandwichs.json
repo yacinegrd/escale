@@ -1,0 +1,51 @@
+[
+  {
+    "name": "روايال",
+    "price": 300,
+    "img": "/pics/Sandwich/royal_150.png",
+    "ingredient": ["شريحتين لحم", "سلطة", "طماطم", "بصل", "بيض", "جبن"]
+  },
+  {
+    "name": "تريبل إكس",
+    "price": 450,
+    "img": "/pics/Sandwich/royal_150.png",
+    "ingredient": [
+      "ثلاث شرائح لحم",
+      "سلطة",
+      "طماطم",
+      "لحم مدخن",
+      "بصل",
+      "شرائح جبن"
+    ]
+  },
+  {
+    "name": "تيكا",
+    "price": 450,
+    "img": "/pics/Sandwich/tikka_150.png",
+    "ingredient": ["دجاج كاري أو نتدوري", "سلطة", "طماطم", "جبن"]
+  },
+  {
+    "name": "مكسيكي",
+    "price": 450,
+    "img": "/pics/Sandwich/royal_150.png",
+    "ingredient": ["دجاج مكسيكي", "سلطة", "طماطم", "بصل", "جبن"]
+  },
+  {
+    "name": "بورسين",
+    "price": 500,
+    "img": "/pics/Sandwich/Boursin_150.png",
+    "ingredient": ["دجاج", "صلصة الثوم", "سلطة", "طماطم", "جبن"]
+  },
+  {
+    "name": "إيمنتال",
+    "price": 500,
+    "img": "/pics/Sandwich/Emmental_150.png",
+    "ingredient": ["دجاج", "صلصة إيمنتال", "سلطة", "طماطم", "شيدار", "جبن"]
+  },
+  {
+    "name": "ماكسي",
+    "price": 500,
+    "img": "/pics/Sandwich/Maxi_150.png",
+    "ingredient": ["دجاج", "لحم مفروم", "سلطة", "طماطم", "جبن"]
+  }
+]

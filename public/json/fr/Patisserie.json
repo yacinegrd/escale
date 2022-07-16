@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Pain Au Chocolat",
+    "price": 80,
+    "img": "/pics/Patesserie/pain-chocolat_100.png"
+  },
+  {
+    "name": "Croissant",
+    "price": 80,
+    "img": "/pics/Patesserie/coirssant_100.png"
+  },
+  {
+    "name": "Viennoiserie",
+    "price": 150,
+    "img": "/pics/Patesserie/pain-raisin_100.png"
+  },
+  {
+    "name": "Gâteaux Traditionnels",
+    "price": 200,
+    "img": "/pics/Patesserie/traditions_100.png"
+  },
+  {
+    "name": "Pâtisserie",
+    "price": 300,
+    "img": "/pics/Patesserie/tranche_100.png"
+  },
+  {
+    "name": "Pâtisserie fine",
+    "price": 300,
+    "img": "/pics/Patesserie/piece_100.png"
+  }
+]

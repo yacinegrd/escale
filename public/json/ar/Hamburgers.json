@@ -1,0 +1,33 @@
+[
+  {
+    "name": "كلاسيك",
+    "price": 400,
+    "img": "/pics/Humburger/classic_150.png",
+    "ingredient": ["لحم مفروم", "سلطة", "طماطم", "جبن"]
+  },
+  {
+    "name": "تشيز برغر",
+    "price": 450,
+    "img": "/pics/Humburger/chess_150.png",
+    "ingredient": ["لحم مفروم", "شرائح جبن", "سلطة", "طماطم", "جبن ذائب"]
+  },
+  {
+    "name": "فورست برغر",
+    "price": 500,
+    "img": "/pics/Humburger/forestier_150.png",
+    "ingredient": [
+      "لحم مفروم",
+      "سلطة",
+      "بصل محمر",
+      "سلطة",
+      "طماطم",
+      "شرائح جبن"
+    ]
+  },
+  {
+    "name": "بيج برغر",
+    "price": 600,
+    "img": "/pics/Humburger/big_150.png",
+    "ingredient": ["لحم مفروم مضاعف", "بصل محمر", "سلطة", "طماطم", "شرائح جبن"]
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "name": "A L'Algerienne",
+    "price": 600,
+    "img": "/pics/petit dej/dz_500.webp",
+    "ingredient": [
+      "Thé maison",
+      "Jus D’orange Pressé",
+      "Tartine",
+      "M’semen ou M’besses",
+      "Buerre",
+      "Miel"
+    ]
+  },
+  {
+    "name": "A La Francaise",
+    "price": 700,
+    "img": "/pics/petit dej/fr_500.webp",
+    "ingredient": [
+      "Boisson Chaude",
+      "Jus D’orange Pressé",
+      "Tartine",
+      "Viennoiserie",
+      "Buerre",
+      "Confiture"
+    ]
+  },
+  {
+    "name": "A L'Anglaise",
+    "price": 700,
+    "img": "/pics/petit dej/ang_500.webp",
+    "ingredient": [
+      "Boisson Chaude",
+      "Jus D’orange Pressé",
+      "Oeufs",
+      "Charcuterie",
+      "Frommage"
+    ]
+  }
+]

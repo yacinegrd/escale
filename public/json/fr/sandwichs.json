@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Royal",
+    "price": 300,
+    "img": "/pics/Sandwich/royal_150.png",
+    "ingredient": ["2 Steaks", "Salade", "Tomate", "Oignons", "Oeuf", "Fromage"]
+  },
+  {
+    "name": "Triple X",
+    "price": 450,
+    "img": "/pics/Sandwich/royal_150.png",
+    "ingredient": [
+      "3 Steaks",
+      "Salade",
+      "Tomate",
+      "Jambon fumé",
+      "Oignons",
+      "Fromage en Tranche"
+    ]
+  },
+  {
+    "name": "Tikka",
+    "price": 450,
+    "img": "/pics/Sandwich/tikka_150.png",
+    "ingredient": ["Poulet Tandoori ou Curry", "Salade", "Tomate", "Fromage"]
+  },
+  {
+    "name": "Mexicain",
+    "price": 450,
+    "img": "/pics/Sandwich/royal_150.png",
+    "ingredient": ["Poulet Mexicain", "Salade", "Tomate", "Oignons", "Fromage"]
+  },
+  {
+    "name": "Boursin",
+    "price": 500,
+    "img": "/pics/Sandwich/Boursin_150.png",
+    "ingredient": ["Poulet", "Sauce Ail", "Salade", "Tomate", "Fromage"]
+  },
+  {
+    "name": "Emmental",
+    "price": 500,
+    "img": "/pics/Sandwich/Emmental_150.png",
+    "ingredient": [
+      "Poulet",
+      "Sauce Emmental",
+      "Salade",
+      "Tomate",
+      "Cheddar",
+      "Fromage"
+    ]
+  },
+  {
+    "name": "Maxi",
+    "price": 500,
+    "img": "/pics/Sandwich/Maxi_150.png",
+    "ingredient": ["Poulet", "Viande Hachée", "Salade", "Tomate", "Fromage"]
+  }
+]

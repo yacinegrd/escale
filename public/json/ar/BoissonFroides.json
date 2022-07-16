@@ -1,0 +1,42 @@
+[
+  {
+    "name": "ماء معدني",
+    "price": 50,
+    "img": "/pics/BoissonFroides/eau_150.png"
+  },
+  {
+    "name": "مشروب غازي",
+    "price": 100,
+    "img": "/pics/BoissonFroides/Soda_150.png"
+  },
+  {
+    "name": "مشروب غازي 1ل",
+    "price": 200,
+    "img": "/pics/BoissonFroides/coca-cola_100.png"
+  },
+  {
+    "name": "عصير برتقال",
+    "price": 350,
+    "img": "/pics/BoissonFroides/jus-orange_150.png"
+  },
+  {
+    "name": "مخفوق الحليب",
+    "price": 300,
+    "img": "/pics/BoissonFroides/milkshake_150.png"
+  },
+  {
+    "name": "موخيتو",
+    "price": 350,
+    "img": "/pics/BoissonFroides/mojito_150.png"
+  },
+  {
+    "name": "سموتي",
+    "price": 350,
+    "img": "/pics/BoissonFroides/smoothie_100.png"
+  },
+  {
+    "name": "عصير كوكتيل",
+    "price": 500,
+    "img": "/pics/BoissonFroides/jus-coktaile_150.png"
+  }
+]

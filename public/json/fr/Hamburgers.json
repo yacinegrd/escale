@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Classic",
+    "price": 400,
+    "img": "/pics/Humburger/classic_150.png",
+    "ingredient": ["Viande Hachée", "Salade", "Tomate", "Fromage"]
+  },
+  {
+    "name": "Cheeseburger",
+    "price": 450,
+    "img": "/pics/Humburger/chess_150.png",
+    "ingredient": [
+      "Viande Hachée",
+      "Fromage en Tranche",
+      "Salade",
+      "Tomate",
+      "Fromage Fondu"
+    ]
+  },
+  {
+    "name": "Forestier",
+    "price": 500,
+    "img": "/pics/Humburger/forestier_150.png",
+    "ingredient": [
+      "Viande Hachée",
+      "Salade",
+      "Oignon Caramélisé",
+      "Salade",
+      "Tomate",
+      "Fromage en Tranche"
+    ]
+  },
+  {
+    "name": "Big Burger",
+    "price": 600,
+    "img": "/pics/Humburger/big_150.png",
+    "ingredient": [
+      "Double Viande Hachée",
+      "Oignon Caramélisé",
+      "Salade",
+      "Tomate",
+      "Fromage en Tranche"
+    ]
+  }
+]

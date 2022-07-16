@@ -1,0 +1,76 @@
+[
+  {
+    "name": "مارغريتا",
+    "price": 400,
+    "img": "/pics/Pizza/margurite_100.png",
+    "ingredient": ["صلصة طماطم", "جبن"]
+  },
+  {
+    "name": "ديك رومي مدخن",
+    "price": 600,
+    "img": "/pics/Pizza/smoked_100.png",
+    "ingredient": ["صلصة طماطم", "ديك رومي مدخن", "جبن"]
+  },
+  {
+    "name": "نباتية",
+    "price": 650,
+    "img": "/pics/Pizza/vegetarian_100.png",
+    "ingredient": ["صلصة طماطم", "بصل", "فلفل", "باذنجان", "فطر", "جبن"]
+  },
+  {
+    "name": "تونا",
+    "price": 650,
+    "img": "/pics/Pizza/thon_100.png",
+    "ingredient": ["صلصة طماطم", "تونة", "جبن"]
+  },
+  {
+    "name": "سيليسين",
+    "price": 650,
+    "img": "/pics/Pizza/sicilienne_100.png",
+    "ingredient": ["صلصة طماطم", "جبن", "لحم مفروم", "أنشوجة", "نبات الكبر"]
+  },
+  {
+    "name": "بوفالو",
+    "price": 750,
+    "img": "/pics/Pizza/buffalo_100.png",
+    "ingredient": ["صلصة طماطم", "جبن", "لحم مفروم", "فلفل", "فطر"]
+  },
+  {
+    "name": "شيلي",
+    "price": 800,
+    "img": "/pics/Pizza/chilli_100.png",
+    "ingredient": ["صلصة مكسيكية", "جبن", "دجاج أو لجم", "فلفل"]
+  },
+  {
+    "name": "دجاج",
+    "price": 800,
+    "img": "/pics/Pizza/chiken_100.png",
+    "ingredient": ["صلصة طماطم أو صلصة بيضاء", "دجاج", "فلفل", "فطر", "جبن"]
+  },
+  {
+    "name": "أربع أجبان",
+    "price": 800,
+    "img": "/pics/Pizza/4-fromage_100.png",
+    "ingredient": [
+      "صلصة طماطم أو صلصة بيضاء",
+      "روكفور",
+      "غرويير",
+      "موتزاريلا",
+      "كامومبير"
+    ]
+  },
+  {
+    "name": "بيتزا المطعم",
+    "price": 900,
+    "img": "/pics/Pizza/escale_100.png",
+    "ingredient": [
+      "صلصة طماطم",
+      "جبن",
+      "غرويير",
+      "بصل",
+      "لحم مدخن",
+      "لحم مفروم",
+      "دجاج"
+    ]
+  }
+]

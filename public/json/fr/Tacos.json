@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Simple",
+    "price": 500,
+    "img": "/pics/Tacos/1_150.png",
+    "ingredient": ["01 Viande au choix"]
+  },
+  {
+    "name": "Double",
+    "price": 600,
+    "img": "/pics/Tacos/2_150.png",
+    "ingredient": ["02 Viandes au choix"]
+  },
+  {
+    "name": "Maxi",
+    "price": 700,
+    "img": "/pics/Tacos/3_150.png",
+    "ingredient": ["03 Viandes au choix"]
+  }
+]

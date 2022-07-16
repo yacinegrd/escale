@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Eau Minérale",
+    "price": 50,
+    "img": "/pics/BoissonFroides/eau_150.png"
+  },
+  {
+    "name": "Soda",
+    "price": 100,
+    "img": "/pics/BoissonFroides/Soda_150.png"
+  },
+  {
+    "name": "Soda 1L",
+    "price": 200,
+    "img": "/pics/BoissonFroides/coca-cola_100.png"
+  },
+  {
+    "name": "jus d'Orange",
+    "price": 350,
+    "img": "/pics/BoissonFroides/jus-orange_150.png"
+  },
+  {
+    "name": "MilkShake",
+    "price": 300,
+    "img": "/pics/BoissonFroides/milkshake_150.png"
+  },
+  {
+    "name": "Mojito",
+    "price": 350,
+    "img": "/pics/BoissonFroides/mojito_150.png"
+  },
+  {
+    "name": "Smoothie",
+    "price": 350,
+    "img": "/pics/BoissonFroides/smoothie_100.png"
+  },
+  {
+    "name": "Jus Coktail",
+    "price": 500,
+    "img": "/pics/BoissonFroides/jus-coktaile_150.png"
+  }
+]
