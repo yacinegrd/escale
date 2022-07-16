@@ -8,7 +8,7 @@
   {
     "name": "Triple X",
     "price": 450,
-    "img": "/pics/Sandwich/royal_150.png",
+    "img": "/pics/Sandwich/tripleX_150.png",
     "ingredient": [
       "3 Steaks",
       "Salade",
@@ -27,7 +27,7 @@
   {
     "name": "Mexicain",
     "price": 450,
-    "img": "/pics/Sandwich/royal_150.png",
+    "img": "/pics/Sandwich/mexicain.png",
     "ingredient": ["Poulet Mexicain", "Salade", "Tomate", "Oignons", "Fromage"]
   },
   {

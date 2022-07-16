@@ -8,7 +8,7 @@
   {
     "name": "تريبل إكس",
     "price": 450,
-    "img": "/pics/Sandwich/royal_150.png",
+    "img": "/pics/Sandwich/tripleX_150.png",
     "ingredient": [
       "ثلاث شرائح لحم",
       "سلطة",
@@ -27,7 +27,7 @@
   {
     "name": "مكسيكي",
     "price": 450,
-    "img": "/pics/Sandwich/royal_150.png",
+    "img": "/pics/Sandwich/mexicain.png",
     "ingredient": ["دجاج مكسيكي", "سلطة", "طماطم", "بصل", "جبن"]
   },
   {
