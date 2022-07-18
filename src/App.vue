@@ -100,7 +100,7 @@ import Patesserie from "./components/Patesserie.vue";
     </div>
     <div class="overture">
       <h6>: أوقات العمل</h6>
-      <span>7:30 - 22:00 : من السبت إلى الخميس</span>
+      <span>22:00 - 7:30 : من السبت إلى الخميس</span>
     </div>
     <div class="insta">
       <h6>: تابعنا</h6>
