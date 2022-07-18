@@ -81,8 +81,7 @@ import Patesserie from "./components/Patesserie.vue";
     </div>
     <div class="overture">
       <h6>Horaire d’ouverture :</h6>
-      <span>Samedi à jeudi : 8:00 - 22h00 </span>
-      <span>Vendredi : 17:00 - 22:00</span>
+      <span>Samedi à jeudi : 7:30 - 22:00 </span>
     </div>
     <div class="insta">
       <h6>Abonnez vous :</h6>
@@ -92,7 +91,7 @@ import Patesserie from "./components/Patesserie.vue";
   <footer v-else>
     <Logo />
     <div style="text-align: center">
-      <span style="display: block">إسطو بجوار فندق ليبرتي وهران</span>
+      <span style="display: block">إيسطو بجوار فندق ليبرتي وهران</span>
       <a
         class="itinéraire"
         href="https://www.google.com/maps/place/L%E2%80%99%C3%89SCALE/@35.6982966,-0.5962938,17z/data=!4m5!3m4!1s0xd7e6321cf3831e5:0x29e1ee307fac3e3d!8m2!3d35.6982965!4d-0.5949922?hl=FR"
@@ -100,11 +99,11 @@ import Patesserie from "./components/Patesserie.vue";
       </a>
     </div>
     <div class="overture">
-      <h6>وقت مفتوح :</h6>
-      <span>7:30h - 22:00h</span>
+      <h6>: أوقات العمل</h6>
+      <span>7:30 - 22:00 : من السبت إلى الخميس</span>
     </div>
     <div class="insta">
-      <h6>تابعنا :</h6>
+      <h6>: تابعنا</h6>
       <Insta />
     </div>
   </footer>

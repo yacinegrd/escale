@@ -6,12 +6,6 @@
     "ingredient": ["Sauce Tomate", "Fromage"]
   },
   {
-    "name": "Dinde Fumée",
-    "price": 600,
-    "img": "/pics/Pizza/smoked_100.png",
-    "ingredient": ["Sauce Tomate", "Dinde Fumée", "Fromage"]
-  },
-  {
     "name": "Végétarienne",
     "price": 650,
     "img": "/pics/Pizza/vegetarian_100.png",
@@ -34,13 +28,13 @@
     "name": "Sicilienne",
     "price": 650,
     "img": "/pics/Pizza/scillienne_100.png",
-    "ingredient": [
-      "Sauce Tomate",
-      "Fromage",
-      "Viande Hachée",
-      "Anchois",
-      "Câpres"
-    ]
+    "ingredient": ["Sauce Tomate", "Fromage", "Anchois", "Câpres"]
+  },
+  {
+    "name": "Dinde Fumée",
+    "price": 700,
+    "img": "/pics/Pizza/smoked_100.png",
+    "ingredient": ["Sauce Blanche", "Dinde Fumée", "Fromage"]
   },
   {
     "name": "Buffalo",
