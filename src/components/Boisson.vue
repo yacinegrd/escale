@@ -4,11 +4,11 @@ import BoissonContainer from "./containers/BoissonContainer.vue";
 <template>
   <h2>{{ lang === "fr" ? "Boisson Chaudes" : "مشروبات ساخنة" }}</h2>
   <div class="grid">
-    <BoissonContainer v-for="choi in choixbc" :detail="choi" />
+    <BoissonContainer v-for="choi in choixbc" :detail="choi" :lang="lang" />
   </div>
   <h2>{{ lang === "fr" ? "Boisson Froides" : "مشروبات باردة" }}</h2>
   <div class="grid">
-    <BoissonContainer v-for="choi in choixbf" :detail="choi" />
+    <BoissonContainer v-for="choi in choixbf" :detail="choi" :lang="lang" />
   </div>
 </template>
 <script>

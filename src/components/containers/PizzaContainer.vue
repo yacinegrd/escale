@@ -7,7 +7,9 @@
     <div class="info">
       <div class="np">
         <span class="name">{{ detail.name }}</span>
-        <span class="price">{{ detail.price }}da</span>
+        <span class="price"
+          >{{ detail.price }}{{ lang === "fr" ? " da" : "دج " }}</span
+        >
       </div>
       <span class="ingredient">{{ ingredients }}</span>
     </div>
@@ -16,7 +18,7 @@
 <script>
 export default {
   name: "Pizza",
-  props: ["detail"],
+  props: ["detail", "lang"],
   computed: {
     ingredients() {
       let string = "";

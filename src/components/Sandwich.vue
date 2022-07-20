@@ -4,7 +4,7 @@ import SauceContainer from "./containers/SauceContainer.vue";
 </script>
 <template>
   <div class="align">
-    <PizzaContainer v-for="choi in choix" :detail="choi" />
+    <PizzaContainer v-for="choi in choix" :detail="choi" :lang="lang" />
     <PizzaContainer
       :detail="
         lang === 'fr'

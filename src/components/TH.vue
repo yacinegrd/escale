@@ -5,11 +5,11 @@ import SauceContainer from "./containers/SauceContainer.vue";
 <template>
   <h2>{{ lang === "fr" ? "Hamburgers" : "برغر" }}</h2>
   <div class="align">
-    <PizzaContainer v-for="choi in choixH" :detail="choi" />
+    <PizzaContainer v-for="choi in choixH" :detail="choi" :lang="lang" />
   </div>
   <h2>{{ lang === "fr" ? "Tacos" : "تاكوس" }}</h2>
   <div class="align">
-    <PizzaContainer v-for="choi in choixT" :detail="choi" />
+    <PizzaContainer v-for="choi in choixT" :detail="choi" :lang="lang" />
     <PizzaContainer
       :detail="
         lang === 'fr'
@@ -26,6 +26,7 @@ import SauceContainer from "./containers/SauceContainer.vue";
               sup: true,
             }
       "
+      :lang="lang"
     />
   </div>
   <h2>{{ lang === "fr" ? "Viandes" : "اللحوم" }}</h2>

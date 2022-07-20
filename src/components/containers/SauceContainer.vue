@@ -8,9 +8,7 @@
 <script>
 export default {
   name: "SauceContainer",
-  props: {
-    detail: Object,
-  },
+  props: ["detail"],
 };
 </script>
 

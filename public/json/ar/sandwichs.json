@@ -44,7 +44,7 @@
   },
   {
     "name": "ماكسي",
-    "price": 500,
+    "price": 600,
     "img": "/pics/Sandwich/Maxi_150.png",
     "ingredient": ["دجاج", "لحم مفروم", "سلطة", "طماطم", "جبن"]
   }

@@ -3,16 +3,16 @@
     <img :src="detail.img" alt="" />
     <div class="info">
       <span class="name">{{ detail.name }}</span>
-      <span class="price">{{ detail.price }}da</span>
+      <span class="price"
+        >{{ detail.price }}{{ lang === "fr" ? " da" : "دج " }}</span
+      >
     </div>
   </div>
 </template>
 <script>
 export default {
   name: "Boisson",
-  props: {
-    detail: Object,
-  },
+  props: ["detail", "lang"],
 };
 </script>
 <style lang="scss">

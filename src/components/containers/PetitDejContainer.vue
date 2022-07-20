@@ -3,7 +3,9 @@
     <img :src="detail.img" alt="" />
     <div class="info">
       <span class="name">{{ detail.name }}</span>
-      <span class="price">{{ detail.price }}da</span>
+      <span class="price"
+        >{{ detail.price }}{{ lang === "fr" ? " da" : " دج " }}</span
+      >
     </div>
     <span class="ingredient">{{ ingredients }}</span>
   </div>
@@ -12,9 +14,8 @@
 <script>
 export default {
   name: "PetitDejContainer",
-  props: {
-    detail: Object,
-  },
+  props: ["detail", "lang"],
+
   computed: {
     ingredients() {
       let string = "";

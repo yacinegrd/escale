@@ -3,7 +3,7 @@ import PizzaContainer from "./containers/PizzaContainer.vue";
 </script>
 <template>
   <div class="align">
-    <PizzaContainer v-for="choi in choix" :detail="choi" />
+    <PizzaContainer v-for="choi in choix" :detail="choi" :lang="lang" />
   </div>
 </template>
 <script>

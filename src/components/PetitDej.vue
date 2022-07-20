@@ -3,7 +3,7 @@ import PetitDejContainer from "./containers/PetitDejContainer.vue";
 </script>
 <template>
   <div class="align">
-    <PetitDejContainer v-for="choi in choix" :detail="choi" />
+    <PetitDejContainer v-for="choi in choix" :detail="choi" :lang="lang" />
   </div>
 </template>
 <script>

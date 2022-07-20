@@ -4,7 +4,7 @@ import BoissonContainer from "./containers/BoissonContainer.vue";
 <template>
   <h2>{{ lang === "fr" ? "Patesserie" : "حلويات" }}</h2>
   <div class="grid">
-    <BoissonContainer v-for="choi in choixbc" :detail="choi" />
+    <BoissonContainer v-for="choi in choixbc" :detail="choi" :lang="lang" />
   </div>
 </template>
 <script>
