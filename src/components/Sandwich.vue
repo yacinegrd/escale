@@ -21,6 +21,7 @@ import SauceContainer from "./containers/SauceContainer.vue";
               sup: true,
             }
       "
+      :lang="lang"
     />
   </div>
   <h2>{{ lang === "fr" ? "Sauces" : "الصلصات" }}</h2>
