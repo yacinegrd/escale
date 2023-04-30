@@ -1,12 +1,12 @@
 [
   {
     "name": "خبز بالشكولاطة",
-    "price": 80,
+    "price": 100,
     "img": "/pics/Patesserie/pain-chocolat_100.png"
   },
   {
     "name": "كرواسون",
-    "price": 80,
+    "price": 100,
     "img": "/pics/Patesserie/coirssant_100.png"
   },
   {
