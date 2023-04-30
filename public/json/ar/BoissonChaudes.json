@@ -30,13 +30,18 @@
     "img": "/pics/BoissonChaudes/cafe-lait_150.png"
   },
   {
+    "name": "شكولاطة ساخنة",
+    "price": 200,
+    "img": "/pics/BoissonChaudes/chocolat-chaud.png"
+  },
+  {
     "name": "شاي الأعشاب",
     "price": 200,
     "img": "/pics/BoissonChaudes/the_150.png"
   },
   {
-    "name": "شاي منزلي",
-    "price": 150,
+    "name": "(لشخصين) شاي منزلي",
+    "price": 250,
     "img": "/pics/BoissonChaudes/the-maison_150.png"
   }
 ]

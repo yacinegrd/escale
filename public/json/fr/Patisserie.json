@@ -21,12 +21,7 @@
   },
   {
     "name": "Pâtisserie",
-    "price": 300,
+    "price": 350,
     "img": "/pics/Patesserie/tranche_100.png"
-  },
-  {
-    "name": "Pâtisserie fine",
-    "price": 300,
-    "img": "/pics/Patesserie/piece_100.png"
   }
 ]

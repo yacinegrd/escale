@@ -1,13 +1,13 @@
 [
   {
     "name": "Royal",
-    "price": 300,
+    "price": 350,
     "img": "/pics/Sandwich/royal_150.png",
     "ingredient": ["2 Steaks", "Salade", "Tomate", "Oignons", "Oeuf", "Fromage"]
   },
   {
     "name": "Triple X",
-    "price": 450,
+    "price": 500,
     "img": "/pics/Sandwich/tripleX_150.png",
     "ingredient": [
       "3 Steaks",
@@ -15,18 +15,18 @@
       "Tomate",
       "Jambon fumé",
       "Oignons",
-      "Fromage en Tranche"
+      "Fromage"
     ]
   },
   {
     "name": "Tikka",
-    "price": 450,
+    "price": 500,
     "img": "/pics/Sandwich/tikka_150.png",
     "ingredient": ["Poulet Tandoori ou Curry", "Salade", "Tomate", "Fromage"]
   },
   {
     "name": "Mexicain",
-    "price": 450,
+    "price": 500,
     "img": "/pics/Sandwich/mexicain.png",
     "ingredient": ["Poulet Mexicain", "Salade", "Tomate", "Oignons", "Fromage"]
   },

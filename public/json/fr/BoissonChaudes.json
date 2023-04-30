@@ -1,11 +1,11 @@
 [
   {
-    "name": "Café presse",
+    "name": "Expresso",
     "price": 150,
     "img": "/pics/BoissonChaudes/press.png"
   },
   {
-    "name": "Espresso",
+    "name": "Nespresso",
     "price": 250,
     "img": "/pics/BoissonChaudes/expresso_150.png"
   },
@@ -30,13 +30,18 @@
     "img": "/pics/BoissonChaudes/cafe-lait_150.png"
   },
   {
+    "name": "Chocolat Chaud",
+    "price": 200,
+    "img": "/pics/BoissonChaudes/chocolat-chaud.png"
+  },
+  {
     "name": "Thé infusion",
     "price": 200,
     "img": "/pics/BoissonChaudes/the_150.png"
   },
   {
-    "name": "Thé maison",
-    "price": 150,
+    "name": "Thé maison (2 pers)",
+    "price": 250,
     "img": "/pics/BoissonChaudes/the-maison_150.png"
   }
 ]

@@ -11,7 +11,7 @@
     "img": "/pics/Humburger/chess_150.png",
     "ingredient": [
       "Viande Hachée",
-      "Fromage en Tranche",
+      "Fromage",
       "Salade",
       "Tomate",
       "Fromage Fondu"
@@ -25,9 +25,21 @@
       "Viande Hachée",
       "Salade",
       "Oignon Caramélisé",
-      "Salade",
+      "Sauce BBQ",
       "Tomate",
-      "Fromage en Tranche"
+      "Fromage"
+    ]
+  },
+  {
+    "name": "Chiken burger",
+    "price": 500,
+    "img": "/pics/Humburger/chikenburger.png",
+    "ingredient": [
+      "Poulet grillé / Pané",
+      "Salade",
+      "Oignon Caramélisé",
+      "Tomate",
+      "Fromage"
     ]
   },
   {
@@ -39,7 +51,7 @@
       "Oignon Caramélisé",
       "Salade",
       "Tomate",
-      "Fromage en Tranche"
+      "Fromage"
     ]
   }
 ]

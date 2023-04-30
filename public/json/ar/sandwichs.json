@@ -1,13 +1,13 @@
 [
   {
     "name": "روايال",
-    "price": 300,
+    "price": 350,
     "img": "/pics/Sandwich/royal_150.png",
     "ingredient": ["شريحتين لحم", "سلطة", "طماطم", "بصل", "بيض", "جبن"]
   },
   {
     "name": "تريبل إكس",
-    "price": 450,
+    "price": 500,
     "img": "/pics/Sandwich/tripleX_150.png",
     "ingredient": [
       "ثلاث شرائح لحم",
@@ -15,18 +15,18 @@
       "طماطم",
       "لحم مدخن",
       "بصل",
-      "شرائح جبن"
+      "جبن"
     ]
   },
   {
     "name": "تيكا",
-    "price": 450,
+    "price": 500,
     "img": "/pics/Sandwich/tikka_150.png",
     "ingredient": ["دجاج كاري أو نتدوري", "سلطة", "طماطم", "جبن"]
   },
   {
     "name": "مكسيكي",
-    "price": 450,
+    "price": 500,
     "img": "/pics/Sandwich/mexicain.png",
     "ingredient": ["دجاج مكسيكي", "سلطة", "طماطم", "بصل", "جبن"]
   },

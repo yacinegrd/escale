@@ -1,19 +1,19 @@
 [
   {
     "name": "بسيط",
-    "price": 500,
+    "price": 600,
     "img": "/pics/Tacos/1_150.png",
     "ingredient": ["لحم من إختيارك"]
   },
   {
     "name": "مضاعف",
-    "price": 600,
+    "price": 700,
     "img": "/pics/Tacos/2_150.png",
     "ingredient": ["لحمين من إختيارك"]
   },
   {
     "name": "ماكسي",
-    "price": 700,
+    "price": 800,
     "img": "/pics/Tacos/3_150.png",
     "ingredient": ["ثلاث لحوم من إختيارك"]
   }

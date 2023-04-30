@@ -16,23 +16,23 @@
   },
   {
     "name": "عصير برتقال",
-    "price": 350,
+    "price": 400,
     "img": "/pics/BoissonFroides/jus-orange_150.png"
   },
   {
+    "name": " عصير موز",
+    "price": 400,
+    "img": "/pics/BoissonFroides/jus-banane.png"
+  },
+  {
     "name": "مخفوق الحليب",
-    "price": 300,
+    "price": 500,
     "img": "/pics/BoissonFroides/milkshake_150.png"
   },
   {
     "name": "موخيتو",
     "price": 350,
     "img": "/pics/BoissonFroides/mojito_150.png"
-  },
-  {
-    "name": "سموتي",
-    "price": 350,
-    "img": "/pics/BoissonFroides/smoothie_100.png"
   },
   {
     "name": "عصير كوكتيل",

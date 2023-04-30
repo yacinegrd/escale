@@ -21,12 +21,7 @@
   },
   {
     "name": "حلويات",
-    "price": 300,
+    "price": 350,
     "img": "/pics/Patesserie/tranche_100.png"
-  },
-  {
-    "name": "حلويات ناعمة",
-    "price": 300,
-    "img": "/pics/Patesserie/piece_100.png"
   }
 ]

@@ -19,26 +19,20 @@
     ]
   },
   {
-    "name": "Tuna",
-    "price": 650,
-    "img": "/pics/Pizza/thon_100.png",
-    "ingredient": ["Sauce Tomate", "Thon", "Fromage"]
-  },
-  {
     "name": "Sicilienne",
     "price": 650,
     "img": "/pics/Pizza/scillienne_100.png",
     "ingredient": ["Sauce Tomate", "Fromage", "Anchois", "Câpres"]
   },
   {
-    "name": "Dinde Fumée",
+    "name": "Fumato",
     "price": 700,
     "img": "/pics/Pizza/smoked_100.png",
-    "ingredient": ["Sauce Blanche", "Dinde Fumée", "Fromage"]
+    "ingredient": ["Sauce Tomate", "Oignons","Poulet fumé", "Fromage"]
   },
   {
     "name": "Buffalo",
-    "price": 750,
+    "price": 800,
     "img": "/pics/Pizza/buffalo_100.png",
     "ingredient": [
       "Sauce Tomate",

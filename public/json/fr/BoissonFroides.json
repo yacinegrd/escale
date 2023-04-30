@@ -16,23 +16,23 @@
   },
   {
     "name": "jus d'Orange",
-    "price": 350,
+    "price": 400,
     "img": "/pics/BoissonFroides/jus-orange_150.png"
   },
   {
+    "name": "jus de Banane",
+    "price": 400,
+    "img": "/pics/BoissonFroides/jus-banane.png"
+  },
+  {
     "name": "MilkShake",
-    "price": 300,
+    "price": 500,
     "img": "/pics/BoissonFroides/milkshake_150.png"
   },
   {
     "name": "Mojito",
     "price": 350,
     "img": "/pics/BoissonFroides/mojito_150.png"
-  },
-  {
-    "name": "Smoothie",
-    "price": 350,
-    "img": "/pics/BoissonFroides/smoothie_100.png"
   },
   {
     "name": "Jus Coktail",
